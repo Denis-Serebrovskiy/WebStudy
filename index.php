@@ -8,6 +8,7 @@
 	require 'access/data/header.html';
 	require 'access/data/footer.html';
 	require 'access/data/scripts.html';
+	<h1>Hello</h1>
 </body>
 </html>
 ?>
